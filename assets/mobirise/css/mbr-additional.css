@@ -1128,10 +1128,22 @@ section.lazy-placeholder:after {
 .cid-s3t4HkCPrh H1 {
   text-align: center;
 }
+#custom-html-d {
+  /* Type valid CSS here */
+}
+#custom-html-d div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-d p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-s4OaVziTlB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/image-processing20191224-11467-1xr4oru0.gif");
 }
 .cid-s4OaVziTlB .mbr-section-subtitle {
   color: #767676;
@@ -1170,28 +1182,4 @@ section.lazy-placeholder:after {
 }
 .cid-s4OaVziTlB H2 {
   color: #18b3a7;
-}
-.cid-s3zAXQpBeX {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/image-processing20191224-11467-1xr4oru1.gif");
-}
-.cid-s3zAXQpBeX .title {
-  margin-bottom: 2rem;
-}
-.cid-s3zAXQpBeX .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s3zAXQpBeX a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-s3zAXQpBeX a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-s3zAXQpBeX textarea.form-control {
-  min-height: 188px;
-}
-.cid-s3zAXQpBeX LABEL {
-  color: #ffffff;
 }
