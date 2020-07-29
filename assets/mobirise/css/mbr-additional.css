@@ -542,8 +542,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -1143,7 +1143,7 @@ section.lazy-placeholder:after {
 .cid-s4OaVziTlB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/image-processing20191224-11467-1xr4oru0.gif");
+  background-image: url("../../../assets/images/image-processing20191224-11467-1xr4oru1.gif");
 }
 .cid-s4OaVziTlB .mbr-section-subtitle {
   color: #767676;
