@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,300,400,500,600,700&display=swap);
 
 
 
@@ -25,12 +25,12 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
@@ -65,9 +65,9 @@ body {
     line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.2rem;
@@ -1136,7 +1136,7 @@ section.lazy-placeholder:after {
 .cid-s4OaVziTlB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/image-processing20191224-11467-1xr4oru0.gif");
+  background-image: url("../../../assets/images/image-processing20191224-11467-1xr4oru1.gif");
 }
 .cid-s4OaVziTlB .mbr-section-subtitle {
   color: #767676;
