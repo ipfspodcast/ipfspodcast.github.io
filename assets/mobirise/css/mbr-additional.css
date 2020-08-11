@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200,300,400,500,600,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i&display=swap);
 
 
 
@@ -25,7 +25,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 0.8rem;
   font-display: swap;
 }
@@ -1136,7 +1136,7 @@ section.lazy-placeholder:after {
 .cid-s4OaVziTlB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/image-processing20191224-11467-1xr4oru1.gif");
+  background-image: url("../../../assets/images/image-processing20191224-11467-1xr4oru0.gif");
 }
 .cid-s4OaVziTlB .mbr-section-subtitle {
   color: #767676;
