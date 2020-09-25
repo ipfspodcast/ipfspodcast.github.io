@@ -34,7 +34,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-09-25_1058",
+    "name": "ipfspodcastbios",
     "versionFirst": "5.1.4",
     "siteFonts": [
       {
@@ -49,7 +49,7 @@
       }
     ],
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/untitled-drawing-1-122x92-122x92.png",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
