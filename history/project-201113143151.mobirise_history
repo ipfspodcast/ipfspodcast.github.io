@@ -66,6 +66,8 @@
     "uniqCompNum": 17,
     "versionPublish": "5.0.29",
     "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
@@ -518,7 +520,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "left"
             },
             "H1": {
               "text-align": "center",
